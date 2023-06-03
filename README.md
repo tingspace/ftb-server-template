@@ -6,6 +6,12 @@ This server is made up of:
 - [Feed The Beast Infinity Evolved Modpack](https://feed-the-beast.com/modpacks/23-ftb-infinity-evolved-17)
 - [Galacticraft](https://micdoodle8.com/mods/galacticraft/) (v1.7.10)
 
+# How to download
+
+In GitHub, click the `Code` dropdown and then click `Download ZIP`.
+
+![img](how-to-download.png)
+
 # Running the server
 
 If you're running on a Windows Machine, the server should come with everything it needs. You shouldn't need to install anything.
