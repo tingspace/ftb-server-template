@@ -43,3 +43,7 @@ Steps:
 2. If you have a seed you want to use, open the `server.properties` file in a text editor (Like Notepad)
 3. Re-run the server to begin generating the new files.
 
+Side note, if you open the `server.properties` file - You can edit the `level-name` tag to give a new world name:
+```
+level-name=SuperAwesomeServerName
+```
